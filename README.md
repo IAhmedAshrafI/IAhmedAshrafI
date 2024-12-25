@@ -4,9 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=iahmedashrafi&label=Profile%20views&color=0e75b6&style=flat" alt="iahmedashrafi" /> </p>
 
-- 🌱 I’m currently learning **.Net**
-
-- 💬 Ask me about **Angular, Django, SQL**
+- 💬 Ask me about **Angular,>Net, SQL**
 
 - 📫 How to reach me **loaiashraf285@gmail.com**
 
